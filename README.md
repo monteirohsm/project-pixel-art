@@ -5,4 +5,5 @@
 ![Project Preview](./images/ezgif.com-gif-maker.gif)
 <br><br>
 ![Project Preview](./images/ezgif.com-gif-maker-2.gif)
-
+<br><br>
+![Project Requirements](./images/Screenshot_20201220_191537.png)
